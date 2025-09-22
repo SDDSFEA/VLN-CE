@@ -13,7 +13,7 @@ INFERENCE:
   LANGUAGES: [en-US, en-IN]
   SAMPLE: True
   USE_CKPT_CONFIG: False
-  CKPT_PATH: data/checkpoints/ckpt.0.pth  # REPLACE THIS
+  CKPT_PATH: data/checkpoints/RxR-en-CMA.pth  # REPLACE THIS
   PREDICTIONS_FILE: rxr_cma_en_test_challenge.jsonl
   FORMAT: rxr
 
